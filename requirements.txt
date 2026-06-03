@@ -7,3 +7,4 @@ tensorflow
 joblib
 flask
 streamlit
+python-3.11
